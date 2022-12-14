@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emadeukodie
 - 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Microsoft Excel, PowerBI, Tableau, SQL and Python
+- 🌱 I’m currently learning Microsoft Excel: Data analytics and data visualisation in excel, VBA, PowerBI, Tableau; data visualisation, creating dashboard and VIZQL, SQL and Python
 - 💞️ I’m looking to collaborate with you to ensure business success using data analysis and data visualisation. 
 - 📫 How to reach me on emadeukodie@gmail.com 
 
